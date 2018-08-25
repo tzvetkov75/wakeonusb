@@ -3,6 +3,7 @@ Allows usb periphery to wakeup computer from standby under Debian
 
 Typicaly keyboard or mouse click
 
+
 ## Usage 
 
 Everytime the computer restart you can enable the usb device to wakeup the computer
@@ -27,7 +28,7 @@ example from /etc/rc.local
 
 ```
 
-### About
+### About 
  
 Version 1.1.2017
 Author	Vesselin 
