@@ -9,7 +9,7 @@ Typicaly keyboard or mouse click
 Everytime the computer restart you can enable the usb device to wakeup the computer
 
 Script manual use 
-``` /wakeOnUSB.sh {idVendor} {idProduct}
+``` sudo ./wakeOnUSB.sh {idVendor} {idProduct}
 ```
  - _idVendor_ is manifacture Id of you hardware, example 045e is Microsoft
  - _idProduct_ is the Id of the exact product, exampple 00dd keyboard
